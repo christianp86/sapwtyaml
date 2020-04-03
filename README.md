@@ -2,8 +2,8 @@
 # SAP, What the yaml? ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/christianp86/sapwtyaml)
 
 ## Introduction
-For many different cloud technologies you need to make configurations in yaml files.
-This little overview should help ypu as cheat sheet to remember which yaml file is used for which purpose.
+For different cloud servis/development tools/... wyou use yaml files for configuration.
+This little overview should help you as a cheat sheet to look up which yaml file is used for which purpose.
 
 ## Overview
 |Filename|Used by|Definition|
