@@ -1,5 +1,5 @@
 
-# SAP, What the yaml? ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/christianp86/sapwtyaml)
+# What the yaml? ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/christianp86/sapwtyaml)
 
 ## Introduction
 For different cloud servis/development tools/... we use yaml files for configuration.
